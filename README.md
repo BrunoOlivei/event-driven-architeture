@@ -300,6 +300,18 @@ O repositório contém resumos dos seguintes tópicos:
                 que deve conter no log?</a>
         </li>
     </ol>
+    <li>
+        <a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md">Tópicos avançados</a>
+    </li>
+    <ol>
+        <li>
+            <a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#introdu%C3%A7%C3%A3o">Introdução</a>
+        </li>
+        <li>
+            <a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#misturando-eda-e-request--response">Misturando
+                EDA e Request / Response</a>
+        </li>
+    </ol>
 </ol>
    
 
