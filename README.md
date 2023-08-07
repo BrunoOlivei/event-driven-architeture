@@ -311,6 +311,12 @@ O repositório contém resumos dos seguintes tópicos:
             <a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#misturando-eda-e-request--response">Misturando
                 EDA e Request / Response</a>
         </li>
+        <li>
+		    <a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#eda-s%C3%ADncrono">EDA Síncrono</a>
+		</li>
+        <li>
+		    <a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#eventos-como-%C3%BAnica-fonte-da-verdade">Eventos como única fonte da verdade</a>
+		</li>
     </ol>
 </ol>
    
