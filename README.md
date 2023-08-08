@@ -317,9 +317,11 @@ O repositório contém resumos dos seguintes tópicos:
         <li>
 		    <a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#eventos-como-%C3%BAnica-fonte-da-verdade">Eventos como única fonte da verdade</a>
 		</li>
+		<li>
+		<a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#o-padr%C3%A3o-saga">Padrão SAGA</a>
+		</li>
     </ol>
 </ol>
-   
 
 ## 👨‍💻 Contribuição
 Sinta-se a vontade para contribuir com sugestões, dicas, melhores práticas, etc. Toda ajuda é bem-vinda 💜
