@@ -321,14 +321,14 @@ O repositório contém resumos dos seguintes tópicos:
 			<a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#o-padr%C3%A3o-saga">Padrão SAGA</a>
 		</li>
 		<li>
-			<a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#">EDA no front-end</a>
+			<a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#eda-no-front-end">EDA no front-end</a>
 		</li>
 		<ol>
 			<li>
-				<a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#">Micro front-ends</a>
+				<a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#micro-front-ends">Micro front-ends</a>
 			</li>
 			<li>
-				<a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#">Push notifications</a>
+				<a href="https://github.com/BrunoOlivei/EDA/blob/main/9.%20T%C3%B3picos%20avan%C3%A7ados.md#push-notifications">Push notifications</a>
 			</li>
 		</ol>
     </ol>
