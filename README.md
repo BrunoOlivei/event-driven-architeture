@@ -332,6 +332,31 @@ O repositório contém resumos dos seguintes tópicos:
 			</li>
 		</ol>
     </ol>
+    <li>
+	    <a href="https://github.com/BrunoOlivei/EDA/blob/main/10.%20Implementando%20EDA.md">Implementando EDA</a>
+	</li>
+	<ol>
+		<li>
+			<a href="https://github.com/BrunoOlivei/EDA/blob/main/10.%20Implementando%20EDA.md#introdu%C3%A7%C3%A3o">Introdução</a>
+		</li>
+		<li>
+			<a href="https://github.com/BrunoOlivei/EDA/blob/main/10.%20Implementando%20EDA.md#abordagem-dos-eventos">Abordagem dos eventos</a>
+		</li>
+		<li>
+			<a href="https://github.com/BrunoOlivei/EDA/blob/main/10.%20Implementando%20EDA.md#implementando-o-channel">Implementando o Channel</a>
+		</li>
+		<ol>
+			<li>
+				<a href="https://github.com/BrunoOlivei/EDA/blob/main/10.%20Implementando%20EDA.md#como-escolher">Como escolher</a>
+			</li>
+		</ol>
+		<li>
+			<a href="https://github.com/BrunoOlivei/EDA/blob/main/10.%20Implementando%20EDA.md#implementando-o-producer">Implementando o Producer</a>
+		</li>
+		<li>
+			<a href="https://github.com/BrunoOlivei/EDA/blob/main/10.%20Implementando%20EDA.md#implementando-o-consumer">Implementando o Consumer</a>
+		</li>
+	</ol>
 </ol>
 
 ## 👨‍💻 Contribuição
