@@ -357,6 +357,22 @@ O repositório contém resumos dos seguintes tópicos:
 			<a href="https://github.com/BrunoOlivei/EDA/blob/main/10.%20Implementando%20EDA.md#implementando-o-consumer">Implementando o Consumer</a>
 		</li>
 	</ol>
+	<li>
+		<a href="https://github.com/BrunoOlivei/EDA/blob/main/11.%20Caso%20de%20estudo.md">Caso de estudo</a>
+	</li>
+	<ol>
+		<li>
+			<a href="https://github.com/BrunoOlivei/EDA/blob/main/11.%20Caso%20de%20estudo.md">Introdução</a>
+		</li>
+		<ol>
+			<li>
+				<a href="https://github.com/BrunoOlivei/EDA/blob/main/11.%20Caso%20de%20estudo.md#requisitos-do-sistema">Requisito do sistema</a>
+			</li>
+			<li>
+				<a href="https://github.com/BrunoOlivei/EDA/blob/main/11.%20Caso%20de%20estudo.md#arquitetura">Arquitetura</a>
+			</li>
+		</ol>
+	</ol>
 </ol>
 
 ## 👨‍💻 Contribuição
